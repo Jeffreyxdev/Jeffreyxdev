@@ -1,6 +1,6 @@
 <h2 align="center">Welcome To My Opensource Github Account 🚧✨<h2>
-  
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=26&duration=4976&pause=1000&color=FFFFFF&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Jeffrey+Agabaenwere)](https://git.io/typing-svg)
+  <h3 align="center">
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=26&duration=4976&pause=1000&color=FFFFFF&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Jeffrey+Agabaenwere)](https://git.io/typing-svg)</h3>
 <h3 align="center">Creative software developer</h3>
 
 <br/>
