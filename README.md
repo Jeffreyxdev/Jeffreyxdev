@@ -13,7 +13,15 @@
 
 💞️ I’m looking to collaborate on crypto projects
   How to reach me jfyjeffreyx@gmail.com or agabaenwerejeffrey@gmail.com
-
+ <p align = "left">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Jeffreyxdev&show_icons=true&theme=tokyonight&line_height=25">
+  </p>
+  <p align = "left">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffreyxdev&langs_count=6&layout=compact">
+  </p>
+  <p align="left">
+   <img src = "http://github-readme-streak-stats.herokuapp.com?user=Jeffreyxdev&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D">
+</p>
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://x.com/gabson0x/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/jeffrey-agabaenwere/)
