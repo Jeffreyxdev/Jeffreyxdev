@@ -1,18 +1,27 @@
-<h2 align="center">Welcome To My Opensource Github Account 🚧✨<h2>
-  
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=26&duration=4976&pause=1000&color=FFFFFF&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Jeffrey+Agabaenwere)](https://git.io/typing-svg)
-<h3 align="center">Creative software developer</h3>
+<h2 align="center">Welcome To My Opensource Github Account ⚡<h2>
+  <p align="center">
+  <h1 align='center'>Hi there!👋🏾 I'm Jeffrey⚡</h1> 
+  </p>
+
+<h3 align="left">Creative software developer⚡</h3>
 
 <br/>
 
-<div align="center">
+<div align="left">
  
  🔭 I’m currently **building my ideas and trying to be an 100x dev**
  
  🌱 I’m currently learning **React Native, PHP**
 
-💞️ I’m looking to collaborate on crypto projects
-  How to reach me jfyjeffreyx@gmail.com or agabaenwerejeffrey@gmail.com
+<h3> I’m open to collaborate</h3>
+  
+  <h4>Lets talk</h4>
+  <a href="https://wa.me/2347035873185?text=Hello+Jeffrey" target="_blank " align = "right">
+  <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="mailto:agabaenwerejeffrey@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
  <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api?username=Jeffreyxdev&show_icons=true&theme=tokyonight&line_height=25">
   </p>
