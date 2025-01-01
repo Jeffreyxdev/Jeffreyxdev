@@ -1,6 +1,6 @@
 <h2 align="center">Welcome To My Opensource Github Account ⚡<h2>
   <p align="center">
-  <h3 align='center'>Hi there!👋🏾 I'm Jeffrey⚡</h3> 
+  <h2 align='center'>Hi there!👋🏾 I'm Jeffrey⚡</h2> 
   </p>
 
 <h3 align="left">Creative software developer⚡</h3>
