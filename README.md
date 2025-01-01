@@ -1,7 +1,15 @@
 <h2 align="center">Welcome To My Opensource Github Account 🚧✨<h2>
   
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=26&duration=4976&pause=1000&color=FFFFFF&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Jeffrey+Agabaenwere)](https://git.io/typing-svg)
-- 👀 I’m interested in web3,software development
+<h3 align="center">Creative software developer</h3>
+
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently **building my ideas and trying to be an 100x dev**
+ 
+ 🌱 I’m currently learning **React Native**
 
 - 💞️ I’m looking to collaborate on crypto projects
 - 📫 How to reach me jfyjeffreyx@gmail.com or agabaenwerejeffrey@gmail.com
