@@ -3,7 +3,7 @@
   <h2 align='center'>Hi there!👋🏾 I'm Jeffrey⚡</h2> 
   </p>
 
-<h3 align="left">Creative software developer⚡</h3>
+<h3 align="left">Creative software developer and founder⚡</h3>
 
 <br/>
 
