@@ -11,7 +11,7 @@
  
  🔭 I’m currently **building my ideas and trying to be an 100x dev**
  
- 🌱 I’m currently learning **React Native, PHP**
+ 🌱 I’m currently learning **React Native, PHP**, proficient in blockchain and AI building 
 
 <h3> I’m open to collaborate</h3>
   
