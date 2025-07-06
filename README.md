@@ -1,9 +1,9 @@
-<h2 align="center">Welcome To My Opensource Github Account ⚡<h2>
+<h2 align="center">Welcome To My Opensource Library ⚡<h2>
   <p align="center">
   <h2 align='center'>Hi there!👋🏾 I'm Jeffrey⚡</h2> 
   </p>
 
-<h3 align="left">Creative software developer and founder⚡</h3>
+<h3 align="left">Creative fullstack developer and founder⚡</h3>
 
 <br/>
 
