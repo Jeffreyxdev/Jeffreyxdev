@@ -24,10 +24,10 @@
 </a>
 </p>
 
-[<img src="https://img.shields.io/badge/X-(Twitter)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://x.com/gabson0x/)  
+[<img src="https://img.shields.io/badge/X-(Twitter)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://x.com/JeffreyConnect/)  
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/jeffrey-agabaenwere/)  
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/tlc_jeffrey/)  
-[<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">](https://jeffrey-agabaenwere.vercel.app/)  
+[<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">](https://jeffreyagabaenwere.vercel.app/)  
 
 ---
 
