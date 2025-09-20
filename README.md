@@ -1,15 +1,13 @@
 <h2 align="center">Welcome To My Opensource Library ⚡<h2>
   <p align="center">
-  <h2 align='center'>Hi there!👋🏾 I'm Jeffrey⚡</h2> 
+  <h2 align='center'>Hi there!👋🏾 I'm Jeffrey, A senior fullstack engineer</h2> 
   </p>
-
-<h3 align="left">Creative fullstack developer and founder⚡</h3>
 
 <br/>
 
 <div align="left">
  
- 🔭 I’m currently **building my ideas and trying to be an 100x dev**
+  I’m currently **building my ideas and trying to be an 100x dev**
  
  🌱 I’m currently learning **React Native, PHP**, proficient in blockchain and AI building 
 
