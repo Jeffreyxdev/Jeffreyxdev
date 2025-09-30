@@ -15,10 +15,7 @@
 ---
 
 ## 🌍 Let’s Connect
-<p>
-<a href="https://wa.me/2347035873185?text=Hello+Jeffrey" target="_blank">
-  <img src="https://img.shields.io/badge/Chat on WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>&nbsp;&nbsp;
+
 <a href="mailto:agabaenwerejeffrey@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
