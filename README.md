@@ -1,7 +1,7 @@
 <h1 align="center">Jeffrey Agabaenwere</h1>
 
 <p align="center">
-Independent Backend Engineer focused on system reliability, internal tooling, and operational clarity.
+Independent Fullstack Engineer focused on system reliability, internal tooling, and operational clarity.
 </p>
 
 ---
