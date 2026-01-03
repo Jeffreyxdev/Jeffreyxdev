@@ -8,7 +8,7 @@ Independent Fullstack Engineer focused on system reliability, internal tooling, 
 
 ## About
 
-I work on backend systems where failure is expensive.
+I work on systems where failure is expensive.
 
 My focus is on identifying brittle logic, reducing operational overhead, and improving how systems behave under real-world conditions. I’m particularly interested in the parts of systems that are usually labeled “temporary”, “manual”, or “good enough”.
 
